@@ -1,6 +1,8 @@
 # Colorbox 
 A color picker skin for Rainmeter
 
+![Preview](https://imgur.com/0NLaZDP.jpg)
+
 ## Features
 - Pick colors based on R, G, B, H, S, V
 - Pick colors from your screen (Thanks to [this addon](https://forum.rainmeter.net/viewtopic.php?f=128&t=4215), you need to install the rmskin to use this feature)
